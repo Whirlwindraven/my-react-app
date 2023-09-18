@@ -2,8 +2,8 @@ import React, { useState, useEffect } from "react"; // Corrected import
 import { Navbar, Container, Nav } from "react-bootstrap"; // Corrected naming
 import logo from '../assets/img/logo.svg';
 import navIcon1 from '../assets/img/nav-icon1.svg';
-import navIcon2 from '../assets/img/nav-icon2.svg';
-import navIcon3 from '../assets/img/nav-icon3.svg';
+import gitHub from "../assets/img/github.svg";
+import gmail from "../assets/img/icons8-gmail.svg";
 
 export const NavBar = () => { // Renamed to avoid conflict
     const [activeLink, setActiveLink] = useState('home');
@@ -44,14 +44,14 @@ export const NavBar = () => { // Renamed to avoid conflict
                     </Nav>
                     <span className="navbar-text">
                         <div className="social-icon">
-                            <a href="#nav">
+                            <a href="https://www.linkedin.com/in/fady-khalil-721b7b194/">
                                 <img src={navIcon1} alt="" />
                             </a>
-                            <a href="#nav">
-                                <img src={navIcon2} alt="" />
+                            <a href="https://github.com/Whirlwindraven">
+                                <img src={gitHub} alt="" />
                             </a>
-                            <a href="#nav">
-                                <img src={navIcon3} alt="" />
+                            <a href="mailto:fadysherif1998@gmail.com">
+                                <img src={gmail} alt="" />
                             </a>
                         </div>
                         <button className="vvd" onClick={() => console.log('connect')}>

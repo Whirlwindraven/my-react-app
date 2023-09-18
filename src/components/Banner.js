@@ -12,7 +12,7 @@ export const Banner = () => {
    const [text, setText] = useState('');
    const [delta, setDelta] = useState(300 - Math.random() *100);
    const [index, setIndex] = useState(1);
-   const toRotate = ["A Web Developer", " A Business Analyst", " A Data Analyst", " An Entreprenur", "& A Research & Innovation Strategist"];
+   const toRotate = ["A Web Developer", " A Business Analyst", " A Data Analyst", " An Entreprenur", "And a Research & Innovation Strategist"];
    const period = 2000;
 
     useEffect(() =>{
@@ -54,7 +54,7 @@ export const Banner = () => {
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl= {7}>
                         <span className="tagbline">Fady's Portfolio</span>
-                        <h1>{`Hey I'm Fady, `} <span className="txt-rotate" dataPeriod="1000" data-rotate= '["A Web Developer", " A Business Analyst", " A Data Analyst", " An Entreprenur", "& A Research & Innovation Strategist"]'><span className="wrap">{text}</span></span></h1>
+                        <h1>{`Hey I'm Fady, `} <span className="txt-rotate" dataPeriod="1000" data-rotate= '["A Web Developer", " A Business Analyst", " A Data Analyst", " An Entreprenur", "And a Research & Innovation Strategist"]'><span className="wrap">{text}</span></span></h1>
                         <p>If there is a WILL, there is always a WAY</p>
                         <button onClick={() => console.log('hellos') }>Connect with me <ArrowRightCircle size={25} /></button>
                     </Col>

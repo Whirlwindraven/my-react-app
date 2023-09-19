@@ -55,7 +55,9 @@ export const NavBar = () => { // Renamed to avoid conflict
                             </a>
                         </div>
                         <button className="vvd" onClick={() => console.log('connect')}>
-                            <span>Let's connect</span>
+                           <a href="https://www.linkedin.com/in/fady-khalil-721b7b194/"> 
+                           <span>Let's connect</span>
+                           </a>
                         </button>
                     </span>
                 </Navbar.Collapse>

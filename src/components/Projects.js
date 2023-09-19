@@ -128,7 +128,7 @@ export const Projects = () => {
                       <Nav.Link eventKey="first">Web Applications</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="second">Process & Data visualization + Research</Nav.Link>
+                      <Nav.Link eventKey="second">Visualizations & Research</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                       <Nav.Link eventKey="third">My Startup</Nav.Link>

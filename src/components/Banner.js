@@ -59,7 +59,7 @@ export const Banner = () => {
                         <span className="tagbline">Fady's Portfolio</span>
                         <h1>{`Hey I'm Fady, `} <span className="txt-rotate" dataPeriod="1000" data-rotate= '["A Web Developer", " A Business Analyst", " A Data Analyst", " An Entreprenur/Starup Founder"," A Recruiting & HR Professironal ", "And a Research & Innovation Strategist"]'><span className="wrap">{text}</span></span></h1>
                         <p>If there is a WILL, there is always a WAY</p>
-                        <button onClick={() => console.log('hellos') }>Connect with me <ArrowRightCircle size={25} /></button>
+                        <button onClick={() => console.log('hellos') }>Connect with me on LinkedIn <ArrowRightCircle size={25} /></button>
                         </div>}
                         </TrackVisibility>
                     </Col>

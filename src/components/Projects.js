@@ -14,7 +14,8 @@ import researchStudy from "../assets/img/research study Small.png"
 import c90 from "../assets/img/psy-c90.png";
 import proposal from "../assets/img/research proposal.png";
 import team from "../assets/img/Diverse team  Small.png";
-import collision from "../assets/img/Collision booth Small.png"
+import collision from "../assets/img/Collision booth Small.png";
+import webNotes from "../assets/img/Screenshot for web notes project  Small.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -43,10 +44,15 @@ export const Projects = () => {
       imgUrl: joker,
     },
     {
-      title: "Blog app",
+      title: "Blog App",
       description: "This is a fullstack web application that mimics that of a technology blog where users can add their blogs and their description while also comment on the blogs of others.",
       imgUrl: mvc,
     },
+    {
+     title: "Web Notes",
+     description: "A Node.js Note-taker that can be used to write,save, and delete notes. Very efficient to organize your thoughts and activities",
+     imgUrl: webNotes,
+      },
   ];
 
   const processFlow = [
@@ -71,6 +77,16 @@ export const Projects = () => {
         description: "Data and process visualization for the city of New York while I was working as a business analyst",
         imgUrl: tempFlow,
       },
+      {
+        title: "Qualitative Research Study",
+        description: "Qualitative research study under the supervision of Dr.Gerald Cupchik on the psychology of emotion in athletes",
+        imgUrl: c90,
+      },
+      {
+        title: "Quantitative Research Proposal",
+        description: "Quantitative research propsal on the effects of emotions on athletic performance",
+        imgUrl: proposal,
+      },
   ];
 
   const startUp = [
@@ -94,16 +110,6 @@ export const Projects = () => {
           description: "I was invited to exhibit my startup at the collision conference where I pitched to VCs and investors",
           imgUrl: collision,
         },
-        {
-            title: "Qualitative Research Study",
-            description: "Qualitative research study under the supervision of Dr.Gerald Cupchik on the psychology of emotion in athletes",
-            imgUrl: c90,
-          },
-          {
-            title: "Quantitative Research Proposal",
-            description: "Quantitative research propsal on the effects of emotions on athletic performance",
-            imgUrl: proposal,
-          },
   ]
 
   return (
@@ -119,13 +125,13 @@ export const Projects = () => {
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
-                      <Nav.Link eventKey="first">Web applications</Nav.Link>
+                      <Nav.Link eventKey="first">Web Applications</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="second">Process & Data visualization</Nav.Link>
+                      <Nav.Link eventKey="second">Process & Data visualization + Research</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="third">My Startup & Research</Nav.Link>
+                      <Nav.Link eventKey="third">My Startup</Nav.Link>
                     </Nav.Item>
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>

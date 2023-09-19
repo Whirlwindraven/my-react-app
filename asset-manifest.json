@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.e9d1f625.css",
-    "main.js": "/my-react-app/static/js/main.6a7a5e47.js",
+    "main.css": "/my-react-app/static/css/main.b66dda2b.css",
+    "main.js": "/my-react-app/static/js/main.34161d75.js",
     "static/js/787.bc7d429a.chunk.js": "/my-react-app/static/js/787.bc7d429a.chunk.js",
     "static/media/GoGo-Screenshot.png .png": "/my-react-app/static/media/GoGo-Screenshot.png .cba25e4332d17c45f842.png",
     "static/media/color-sharp.png": "/my-react-app/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -41,12 +41,12 @@
     "static/media/icons8-gmail.svg": "/my-react-app/static/media/icons8-gmail.e1bc2ceb745debf9361ad2160a79823a.svg",
     "static/media/arrow2.svg": "/my-react-app/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/my-react-app/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
-    "main.e9d1f625.css.map": "/my-react-app/static/css/main.e9d1f625.css.map",
-    "main.6a7a5e47.js.map": "/my-react-app/static/js/main.6a7a5e47.js.map",
+    "main.b66dda2b.css.map": "/my-react-app/static/css/main.b66dda2b.css.map",
+    "main.34161d75.js.map": "/my-react-app/static/js/main.34161d75.js.map",
     "787.bc7d429a.chunk.js.map": "/my-react-app/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9d1f625.css",
-    "static/js/main.6a7a5e47.js"
+    "static/css/main.b66dda2b.css",
+    "static/js/main.34161d75.js"
   ]
 }

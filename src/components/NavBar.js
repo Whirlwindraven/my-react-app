@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"; // Corrected import
 import { Navbar, Container, Nav } from "react-bootstrap"; // Corrected naming
-import logo from '../assets/img/logo.svg';
+import rocky from "../assets/img/Rocky.png";
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import gitHub from "../assets/img/github.svg";
 import gmail from "../assets/img/icons8-gmail.svg";
@@ -31,7 +31,7 @@ export const NavBar = () => { // Renamed to avoid conflict
         <Navbar expand="lg" className={scrolled ? "scrolled" : ""}>
             <Container>
                 <Navbar.Brand href="#home">
-                    <img src={logo} alt="Logo" />
+                    <img src={rocky} alt="Logo" />
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav">
                     <span className="navbar-toggler-icon"></span>
@@ -45,13 +45,13 @@ export const NavBar = () => { // Renamed to avoid conflict
                     <span className="navbar-text">
                         <div className="social-icon">
                             <a href="https://www.linkedin.com/in/fady-khalil-721b7b194/">
-                                <img src={navIcon1} alt="" />
+                                <img src={navIcon1} alt="linkedin" />
                             </a>
                             <a href="https://github.com/Whirlwindraven">
-                                <img src={gitHub} alt="" />
+                                <img src={gitHub} alt="github" />
                             </a>
                             <a href="mailto:fadysherif1998@gmail.com">
-                                <img src={gmail} alt="" />
+                                <img src={gmail} alt="gmail" />
                             </a>
                         </div>
                         <button className="vvd" onClick={() => console.log('connect')}>

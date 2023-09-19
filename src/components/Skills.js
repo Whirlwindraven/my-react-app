@@ -38,27 +38,31 @@ export const Skills = () => {
                         <p>Blend of tech expertise and human biology & psychology insights, startup founder passion, the resilience of an athelte, with a multicultural lens. Always innovating at the intersection of people & tech!.<br></br> University of Toronto & Columbia University Alumni.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <img src={meter1} alt="Image" />
+                                <img src={meter1} alt="meter" />
                                 <h5>Web Development</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
+                                <img src={meter2} alt="meter" />
                                 <h5>Research</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
+                                <img src={meter3} alt="meter" />
                                 <h5>Business & Data Analysis</h5>
                             </div>
                             <div className="item">
-                                <img src={meter1} alt="Image" />
+                                <img src={meter1} alt="meter" />
                                 <h5>Process Optimization</h5>
                                 </div>
+                            <div className="item">
+                                <img src={meter1} alt="meter" />
+                                <h5>HR & recruitment</h5>
+                            </div>
                         </Carousel>
                     </div>
                 </div>
             </div>
         </div>
-        <img className="background-image-left" src={colorSharp} alt="Image" />
+        <img className="background-image-left" src={colorSharp} alt="backgroundimg"/>
     </section>
   )
 }

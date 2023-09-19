@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.600f6e96.css",
-    "main.js": "/my-react-app/static/js/main.05d0af5f.js",
+    "main.css": "/my-react-app/static/css/main.e9d1f625.css",
+    "main.js": "/my-react-app/static/js/main.6a7a5e47.js",
     "static/js/787.bc7d429a.chunk.js": "/my-react-app/static/js/787.bc7d429a.chunk.js",
     "static/media/GoGo-Screenshot.png .png": "/my-react-app/static/media/GoGo-Screenshot.png .cba25e4332d17c45f842.png",
     "static/media/color-sharp.png": "/my-react-app/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -24,6 +24,7 @@
     "static/media/research study Small.png": "/my-react-app/static/media/research study Small.06ac0effeb77240f00f0.png",
     "static/media/Diverse team  Small.png": "/my-react-app/static/media/Diverse team  Small.dd7299e611611bb0253e.png",
     "static/media/footer-bg.png": "/my-react-app/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/Rocky.png": "/my-react-app/static/media/Rocky.6677d710072fb7843a56.png",
     "static/media/MVC screenshot Small.png": "/my-react-app/static/media/MVC screenshot Small.fd286eff49652b2e2ab3.png",
     "static/media/contact-img.svg": "/my-react-app/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/Joker Small.png": "/my-react-app/static/media/Joker Small.ba7cb88666bce0b61761.png",
@@ -35,18 +36,17 @@
     "static/media/meter1.svg": "/my-react-app/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/meter3.svg": "/my-react-app/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/github.svg": "/my-react-app/static/media/github.5d34c405de5d37002d2d8a58bfe20b40.svg",
-    "static/media/logo.svg": "/my-react-app/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
     "index.html": "/my-react-app/index.html",
     "static/media/nav-icon1.svg": "/my-react-app/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/icons8-gmail.svg": "/my-react-app/static/media/icons8-gmail.e1bc2ceb745debf9361ad2160a79823a.svg",
     "static/media/arrow2.svg": "/my-react-app/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/my-react-app/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
-    "main.600f6e96.css.map": "/my-react-app/static/css/main.600f6e96.css.map",
-    "main.05d0af5f.js.map": "/my-react-app/static/js/main.05d0af5f.js.map",
+    "main.e9d1f625.css.map": "/my-react-app/static/css/main.e9d1f625.css.map",
+    "main.6a7a5e47.js.map": "/my-react-app/static/js/main.6a7a5e47.js.map",
     "787.bc7d429a.chunk.js.map": "/my-react-app/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.600f6e96.css",
-    "static/js/main.05d0af5f.js"
+    "static/css/main.e9d1f625.css",
+    "static/js/main.6a7a5e47.js"
   ]
 }

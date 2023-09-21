@@ -56,27 +56,6 @@ export const Projects = () => {
   ];
 
   const processFlow = [
-
-    {
-      title: "Onboarding process flow optimization",
-      description: "Data and process visualization for the city of New York while I was working as a business analyst",
-      imgUrl: onBoardingFlow,
-    },
-    {
-      title: "Sick leave and & retriement process visualization",
-      description: "Data and process visualization for the city of New York while I was working as a business analyst",
-      imgUrl: leaveFlow,
-    },
-    {
-        title: "Process visualization of the retirement protocls for NYC HPD",
-        description: "Data and process visualization for the city of New York while I was working as a business analyst",
-        imgUrl: retirementFlow,
-      },
-      {
-        title: "Process visualization for NYC HPD's temp policy",
-        description: "Data and process visualization for the city of New York while I was working as a business analyst",
-        imgUrl: tempFlow,
-      },
       {
         title: "Qualitative Research Study",
         description: "Qualitative research study under the supervision of Dr.Gerald Cupchik on the psychology of emotion in athletes",

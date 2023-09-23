@@ -3,14 +3,12 @@ import { ProjectCard } from "./ProjectCard";
 import managerFc from "../assets/img/manager-fc.png";
 import foodForEveryone from "../assets/img/Food-for-everyone.png";
 import startUpMatchMaker from "../assets/img/startup-matchmaker.png"
-import onBoardingFlow from "../assets/img/Onboarding-flow Small.png";
 import gogo from "../assets/img/GoGo-Screenshot.png .png"
-import leaveFlow from "../assets/img/Leave-workflow.png";
-import tempFlow from "../assets/img/temp-process.png";
-import retirementFlow from "../assets/img/retirement-flow.png";
 import joker from "../assets/img/Joker Small.png"
 import mvc from "../assets/img/MVC screenshot Small.png"
 import researchStudy from "../assets/img/research study Small.png"
+import musicPlayer from "../assets/img/music-player.png";
+import countdown from "../assets/img/countdown.png";
 import c90 from "../assets/img/psy-c90.png";
 import proposal from "../assets/img/research proposal.png";
 import team from "../assets/img/Diverse team  Small.png";
@@ -66,6 +64,16 @@ export const Projects = () => {
         description: "Quantitative research propsal on the effects of emotions on athletic performance",
         imgUrl: proposal,
       },
+      {
+        title: "Music Player",
+        description: "This is a front end music player application done with javascript,css,& html",
+        imgUrl: musicPlayer,
+      },
+      {
+        title: "Countdown",
+        description: "This is a front end application that counts down a selected date by days, hours, minutes, and seconds.",
+        imgUrl: countdown,
+      },
   ];
 
   const startUp = [
@@ -100,14 +108,14 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__slideInuP": ""}>
                 <h2>Projects</h2>
-                <p>Blending a robust foundation in human biology, psychology, and technology, I harness an unparalleled synergy of data analysis, digital marketing, web development, and 360-degree recruitment expertise, underpinned by entrepreneurial grit and a keen sense of business intelligence, positioning me uniquely at the crossroads of tech innovation, human understanding, and strategic business growth.</p>
+                <p>Blending a robust foundation in human biology, psychology, and technology, I harness an unparalleled synergy of data analysis, digital marketing, web development, and 360-degree recruitment expertise, underpinned by entrepreneurial grit and a keen sense of business intelligence, positioning me uniquely at the crossroads of tech innovation, human understanding, and strategic business growth. The projects include Full stack web applications, qualitaive research, quantitative research, data visualizations, and process optimizations</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
-                      <Nav.Link eventKey="first">Web Applications</Nav.Link>
+                      <Nav.Link eventKey="first">Projects Tab 1</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="second">Visualizations & Research</Nav.Link>
+                      <Nav.Link eventKey="second">Projects Tab 2</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                       <Nav.Link eventKey="third">My Startup</Nav.Link>

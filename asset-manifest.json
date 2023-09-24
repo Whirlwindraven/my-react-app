@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-react-app/static/css/main.b66dda2b.css",
-    "main.js": "/my-react-app/static/js/main.8f1c453a.js",
+    "main.js": "/my-react-app/static/js/main.2d002000.js",
     "static/js/787.bc7d429a.chunk.js": "/my-react-app/static/js/787.bc7d429a.chunk.js",
     "static/media/countdown.png": "/my-react-app/static/media/countdown.a5657fe80c195bb3c5ee.png",
     "static/media/GoGo-Screenshot.png .png": "/my-react-app/static/media/GoGo-Screenshot.png .cba25e4332d17c45f842.png",
@@ -11,6 +11,7 @@
     "static/media/research proposal.png": "/my-react-app/static/media/research proposal.7a8d66e117cd1f621895.png",
     "static/media/Food-for-everyone.png": "/my-react-app/static/media/Food-for-everyone.0eef9ea243897506b9ce.png",
     "static/media/manager-fc.png": "/my-react-app/static/media/manager-fc.40127a2ac2dc03c3d217.png",
+    "static/media/Tableau1.png": "/my-react-app/static/media/Tableau1.5348ba3148f84e45b5b9.png",
     "static/media/Collision booth Small.png": "/my-react-app/static/media/Collision booth Small.415c6358fda68d9d5f0a.png",
     "static/media/banner-bg.png": "/my-react-app/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/psy-c90.png": "/my-react-app/static/media/psy-c90.bd2c099e6fba15273628.png",
@@ -40,11 +41,11 @@
     "static/media/arrow2.svg": "/my-react-app/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/my-react-app/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.b66dda2b.css.map": "/my-react-app/static/css/main.b66dda2b.css.map",
-    "main.8f1c453a.js.map": "/my-react-app/static/js/main.8f1c453a.js.map",
+    "main.2d002000.js.map": "/my-react-app/static/js/main.2d002000.js.map",
     "787.bc7d429a.chunk.js.map": "/my-react-app/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b66dda2b.css",
-    "static/js/main.8f1c453a.js"
+    "static/js/main.2d002000.js"
   ]
 }

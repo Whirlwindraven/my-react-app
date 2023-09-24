@@ -9,6 +9,7 @@ import mvc from "../assets/img/MVC screenshot Small.png"
 import researchStudy from "../assets/img/research study Small.png"
 import musicPlayer from "../assets/img/music-player.png";
 import countdown from "../assets/img/countdown.png";
+import tableau from "../assets/img/Tableau1.png";
 import c90 from "../assets/img/psy-c90.png";
 import proposal from "../assets/img/research proposal.png";
 import team from "../assets/img/Diverse team  Small.png";
@@ -73,6 +74,11 @@ export const Projects = () => {
         title: "Countdown",
         description: "This is a front end application that counts down a selected date by days, hours, minutes, and seconds.",
         imgUrl: countdown,
+      },
+      {
+        title: "Sales Data Visualization",
+        description: "This a Tableau project done on Tableau desktop for business trying to track it's sales cycle. Using MySQL, I created the database and performed the ETL process",
+        imgUrl: tableau,
       },
   ];
 

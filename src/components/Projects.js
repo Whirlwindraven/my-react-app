@@ -77,7 +77,7 @@ export const Projects = () => {
       },
       {
         title: "Sales Data Visualization",
-        description: "This project was done on Tableau desktop using MySQL & ETL protocols for business trying to track it's sales cycle"
+        description: "This project was done on Tableau desktop using MySQL & ETL protocols for business trying to track it's sales cycle",
         imgUrl: tableau,
       },
   ];

@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/my-react-app/static/css/main.b66dda2b.css",
-    "main.js": "/my-react-app/static/js/main.f3f5f2d4.js",
+    "main.js": "/my-react-app/static/js/main.50590c89.js",
     "static/js/787.bc7d429a.chunk.js": "/my-react-app/static/js/787.bc7d429a.chunk.js",
     "static/media/countdown.png": "/my-react-app/static/media/countdown.a5657fe80c195bb3c5ee.png",
     "static/media/GoGo-Screenshot.png .png": "/my-react-app/static/media/GoGo-Screenshot.png .cba25e4332d17c45f842.png",
     "static/media/music-player.png": "/my-react-app/static/media/music-player.46260dc0e41e2d5038ae.png",
     "static/media/color-sharp.png": "/my-react-app/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/my-react-app/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/bookkeeper.png": "/my-react-app/static/media/bookkeeper.dff70f83708c4aefecf0.png",
     "static/media/research proposal.png": "/my-react-app/static/media/research proposal.7a8d66e117cd1f621895.png",
     "static/media/Food-for-everyone.png": "/my-react-app/static/media/Food-for-everyone.0eef9ea243897506b9ce.png",
     "static/media/manager-fc.png": "/my-react-app/static/media/manager-fc.40127a2ac2dc03c3d217.png",
@@ -41,11 +42,11 @@
     "static/media/arrow2.svg": "/my-react-app/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/my-react-app/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.b66dda2b.css.map": "/my-react-app/static/css/main.b66dda2b.css.map",
-    "main.f3f5f2d4.js.map": "/my-react-app/static/js/main.f3f5f2d4.js.map",
+    "main.50590c89.js.map": "/my-react-app/static/js/main.50590c89.js.map",
     "787.bc7d429a.chunk.js.map": "/my-react-app/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b66dda2b.css",
-    "static/js/main.f3f5f2d4.js"
+    "static/js/main.50590c89.js"
   ]
 }

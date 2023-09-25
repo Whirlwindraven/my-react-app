@@ -10,6 +10,7 @@ import researchStudy from "../assets/img/research study Small.png"
 import musicPlayer from "../assets/img/music-player.png";
 import countdown from "../assets/img/countdown.png";
 import tableau from "../assets/img/Tableau1.png";
+import bookkeeper from "../assets/img/bookkeeper.png";
 import c90 from "../assets/img/psy-c90.png";
 import proposal from "../assets/img/research proposal.png";
 import team from "../assets/img/Diverse team  Small.png";
@@ -79,6 +80,11 @@ export const Projects = () => {
         title: "Sales Data Visualization",
         description: "This project was done on Tableau desktop using MySQL & ETL protocols for business trying to track it's sales cycle",
         imgUrl: tableau,
+      },
+      {
+        title: "Book Keeper",
+        description: "This is a front end application designed to store tabs of your favorite sites",
+        imgUrl: bookkeeper,
       },
   ];
 

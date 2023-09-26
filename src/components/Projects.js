@@ -11,6 +11,7 @@ import musicPlayer from "../assets/img/music-player.png";
 import countdown from "../assets/img/countdown.png";
 import tableau from "../assets/img/Tableau1.png";
 import bookkeeper from "../assets/img/bookkeeper.png";
+import nasa from "../assets/img/Nasa .png";
 import c90 from "../assets/img/psy-c90.png";
 import proposal from "../assets/img/research proposal.png";
 import team from "../assets/img/Diverse team  Small.png";
@@ -49,10 +50,11 @@ export const Projects = () => {
       imgUrl: mvc,
     },
     {
-     title: "Web Notes",
-     description: "A Node.js Note-taker that can be used to write,save, and delete notes. Very efficient to organize your thoughts and activities",
-     imgUrl: webNotes,
-      },
+      title: "Nasa",
+      description: "A Full stack web app utilizing spaceX APIs to retreive space launches information(MERN stack)",
+      imgUrl: nasa,
+       },
+   
   ];
 
   const processFlow = [
@@ -86,6 +88,11 @@ export const Projects = () => {
         description: "This is a front end application designed to store tabs of your favorite sites",
         imgUrl: bookkeeper,
       },
+      {
+        title: "Web Notes",
+        description: "A Node.js Note-taker that can be used to write,save, and delete notes. Very efficient to organize your thoughts and activities",
+        imgUrl: webNotes,
+         },
   ];
 
   const startUp = [

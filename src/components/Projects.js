@@ -11,6 +11,7 @@ import musicPlayer from "../assets/img/music-player.png";
 import countdown from "../assets/img/countdown.png";
 import tableau from "../assets/img/Tableau1.png";
 import bookkeeper from "../assets/img/bookkeeper.png";
+import excel from "../assets/img/Excel dashboard.png";
 import nasa from "../assets/img/Nasa .png";
 import c90 from "../assets/img/psy-c90.png";
 import proposal from "../assets/img/research proposal.png";
@@ -54,6 +55,11 @@ export const Projects = () => {
       description: "A Full stack web app utilizing spaceX APIs to retreive space launches information(MERN stack)",
       imgUrl: nasa,
        },
+      {
+        title: "Excel Dashboard",
+        description: "This is an excel dashboard done with a combination of pivot tables, slicers, and graphs",
+        imgUrl: excel,
+        },
    
   ];
 

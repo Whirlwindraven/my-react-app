@@ -17,6 +17,8 @@ import c90 from "../assets/img/psy-c90.png";
 import proposal from "../assets/img/research proposal.png";
 import team from "../assets/img/Diverse team  Small.png";
 import collision from "../assets/img/Collision booth Small.png";
+import dash1 from "../assets/img/Executive_dash.png";
+import dash2 from "../assets/img/Exectuive_dash2.png"
 import webNotes from "../assets/img/Screenshot for web notes project  Small.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -99,6 +101,16 @@ export const Projects = () => {
         description: "A Node.js Note-taker that can be used to write,save, and delete notes. Very efficient to organize your thoughts and activities",
         imgUrl: webNotes,
          },
+      {
+        title: "Executive Dashboard sample",
+        description: "This is a Sales dashboard made using Looker Studio, I utlized dummy data to create visializations",
+        imgUrl: dash1,
+         },
+      {
+        title: "Captivate Dashboard",
+        description: "A Dashboard sample I created for Captivate, using pesudo data to exercise my data visualization muscles",
+        imgUrl: dash2,
+        },
   ];
 
   const startUp = [

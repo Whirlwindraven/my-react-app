@@ -2,19 +2,25 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import managerFc from "../assets/img/manager-fc.png";
 import foodForEveryone from "../assets/img/Food-for-everyone.png";
-import startUpMatchMaker from "../assets/img/startup-matchmaker.png"
-import gogo from "../assets/img/GoGo-Screenshot.png .png"
-import joker from "../assets/img/Joker Small.png"
-import mvc from "../assets/img/MVC screenshot Small.png"
-import researchStudy from "../assets/img/research study Small.png"
+import startUpMatchMaker from "../assets/img/startup-matchmaker.png";
+import gogo from "../assets/img/GoGo-Screenshot.png .png";
+import joker from "../assets/img/Joker Small.png";
+import mvc from "../assets/img/MVC screenshot Small.png";
+import researchStudy from "../assets/img/research study Small.png";
 import musicPlayer from "../assets/img/music-player.png";
 import countdown from "../assets/img/countdown.png";
 import tableau from "../assets/img/Tableau1.png";
 import bookkeeper from "../assets/img/bookkeeper.png";
-import processFlowGlobe from "..//assets/img/Support process example.png"
+import sportStudy from "../assets/img/sport_research.png";
+import processFlowGlobe from "..//assets/img/Support process example.png";
+import retirementLeave from "../assets/img/Retirement_processflow.png";
+import preOnbarding from "../assets/img/pre_onboarding.png";
+import temp from "../assets/img/Temp_onboarding .png";
 import excel from "../assets/img/Excel dashboard.png";
 import nasa from "../assets/img/Nasa .png";
+import researchPres from "../assets/img/Undegrad_science.png"
 import c90 from "../assets/img/psy-c90.png";
+import leaveFlow from "../assets/img/leave_workflow.png"
 import proposal from "../assets/img/research proposal.png";
 import team from "../assets/img/Diverse team  Small.png";
 import collision from "../assets/img/Collision booth Small.png";
@@ -68,6 +74,21 @@ export const Projects = () => {
       description: "This is an onboarding process flow visualization using Lucidchart, made as a proposal for how the movement should flow",
       imgUrl: processFlowGlobe,
       },
+      {
+        title: "Undergraduate Science Presentation",
+        description: "This was a final year presentation done on for the course of animal locomotion in which I demonstrated the muscle effects of micro-gravity on rats",
+        imgUrl: researchPres,
+        },
+        {
+          title: "Onboarding process flow",
+          description: "This was an onboarding process flow proposal done for a government client using Lucidchart",
+          imgUrl: preOnbarding,
+          },
+          {
+            title: "Evolution of sports psychology",
+            description: "Undergraduate qualitative research paper done under the supervision of Dr.Gerald Cupchik",
+            imgUrl: sportStudy,
+            },
      
    
   ];
@@ -118,6 +139,21 @@ export const Projects = () => {
         description: "A Dashboard sample I created for Captivate, using pesudo data to exercise my data visualization muscles",
         imgUrl: dash2,
         },
+        {
+          title: "Leave Process flow",
+          description: "This was a leave prcoess flow visualization done for a government client using Lucidchart",
+          imgUrl: leaveFlow,
+          },
+       {
+         title: "Retirement process flow",
+         description: "This was a retirement prcoess flow visualization done for a government client using Lucidchart",
+         imgUrl: retirementLeave,
+         },
+         {
+          title: "Temp=Onboarding process flow",
+          description: "This was a Temp-onbording prcoess flow proposal visualization done for a government client using Lucidchart",
+          imgUrl: temp,
+          },
   ];
 
   const startUp = [

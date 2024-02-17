@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-react-app/static/css/main.b66dda2b.css",
-    "main.js": "/my-react-app/static/js/main.a0d0ec89.js",
+    "main.js": "/my-react-app/static/js/main.f13722bc.js",
     "static/js/787.bc7d429a.chunk.js": "/my-react-app/static/js/787.bc7d429a.chunk.js",
     "static/media/countdown.png": "/my-react-app/static/media/countdown.a5657fe80c195bb3c5ee.png",
     "static/media/GoGo-Screenshot.png .png": "/my-react-app/static/media/GoGo-Screenshot.png .cba25e4332d17c45f842.png",
@@ -17,6 +17,7 @@
     "static/media/Temp_onboarding .png": "/my-react-app/static/media/Temp_onboarding .7681f6f3464fd34ae4c3.png",
     "static/media/Food-for-everyone.png": "/my-react-app/static/media/Food-for-everyone.0eef9ea243897506b9ce.png",
     "static/media/Support process example.png": "/my-react-app/static/media/Support process example.decf3c80d3b0e5829327.png",
+    "static/media/process_review.png": "/my-react-app/static/media/process_review.490f8fa15bcfd8ccbfe9.png",
     "static/media/Executive_dash.png": "/my-react-app/static/media/Executive_dash.5693553707c525c9460f.png",
     "static/media/manager-fc.png": "/my-react-app/static/media/manager-fc.40127a2ac2dc03c3d217.png",
     "static/media/Tableau1.png": "/my-react-app/static/media/Tableau1.5348ba3148f84e45b5b9.png",
@@ -53,11 +54,11 @@
     "static/media/arrow2.svg": "/my-react-app/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/my-react-app/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.b66dda2b.css.map": "/my-react-app/static/css/main.b66dda2b.css.map",
-    "main.a0d0ec89.js.map": "/my-react-app/static/js/main.a0d0ec89.js.map",
+    "main.f13722bc.js.map": "/my-react-app/static/js/main.f13722bc.js.map",
     "787.bc7d429a.chunk.js.map": "/my-react-app/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b66dda2b.css",
-    "static/js/main.a0d0ec89.js"
+    "static/js/main.f13722bc.js"
   ]
 }

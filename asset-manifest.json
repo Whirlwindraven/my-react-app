@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-react-app/static/css/main.b66dda2b.css",
-    "main.js": "/my-react-app/static/js/main.7834b329.js",
+    "main.js": "/my-react-app/static/js/main.a0d0ec89.js",
     "static/js/787.bc7d429a.chunk.js": "/my-react-app/static/js/787.bc7d429a.chunk.js",
     "static/media/countdown.png": "/my-react-app/static/media/countdown.a5657fe80c195bb3c5ee.png",
     "static/media/GoGo-Screenshot.png .png": "/my-react-app/static/media/GoGo-Screenshot.png .cba25e4332d17c45f842.png",
@@ -11,18 +11,24 @@
     "static/media/color-sharp2.png": "/my-react-app/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/bookkeeper.png": "/my-react-app/static/media/bookkeeper.dff70f83708c4aefecf0.png",
     "static/media/research proposal.png": "/my-react-app/static/media/research proposal.7a8d66e117cd1f621895.png",
+    "static/media/pre_onboarding.png": "/my-react-app/static/media/pre_onboarding.4b44bea176c350e12b62.png",
+    "static/media/leave_workflow.png": "/my-react-app/static/media/leave_workflow.63151536957c61885f3e.png",
     "static/media/Exectuive_dash2.png": "/my-react-app/static/media/Exectuive_dash2.466fb698bf407b008af5.png",
+    "static/media/Temp_onboarding .png": "/my-react-app/static/media/Temp_onboarding .7681f6f3464fd34ae4c3.png",
     "static/media/Food-for-everyone.png": "/my-react-app/static/media/Food-for-everyone.0eef9ea243897506b9ce.png",
     "static/media/Support process example.png": "/my-react-app/static/media/Support process example.decf3c80d3b0e5829327.png",
     "static/media/Executive_dash.png": "/my-react-app/static/media/Executive_dash.5693553707c525c9460f.png",
     "static/media/manager-fc.png": "/my-react-app/static/media/manager-fc.40127a2ac2dc03c3d217.png",
     "static/media/Tableau1.png": "/my-react-app/static/media/Tableau1.5348ba3148f84e45b5b9.png",
+    "static/media/Undegrad_science.png": "/my-react-app/static/media/Undegrad_science.f7f904df392dbdcdf657.png",
+    "static/media/Retirement_processflow.png": "/my-react-app/static/media/Retirement_processflow.524393efd91cb3ad75b6.png",
     "static/media/Excel dashboard.png": "/my-react-app/static/media/Excel dashboard.b1a5955e33e5a4db87a3.png",
     "static/media/Collision booth Small.png": "/my-react-app/static/media/Collision booth Small.415c6358fda68d9d5f0a.png",
     "static/media/banner-bg.png": "/my-react-app/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/psy-c90.png": "/my-react-app/static/media/psy-c90.bd2c099e6fba15273628.png",
     "static/media/header-img.svg": "/my-react-app/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/startup-matchmaker.png": "/my-react-app/static/media/startup-matchmaker.7bb55d135a21244b5957.png",
+    "static/media/sport_research.png": "/my-react-app/static/media/sport_research.65cbfc964ea2cfea6187.png",
     "static/media/CentraNo2-Bold.ttf": "/my-react-app/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/my-react-app/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/my-react-app/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -47,11 +53,11 @@
     "static/media/arrow2.svg": "/my-react-app/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/my-react-app/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.b66dda2b.css.map": "/my-react-app/static/css/main.b66dda2b.css.map",
-    "main.7834b329.js.map": "/my-react-app/static/js/main.7834b329.js.map",
+    "main.a0d0ec89.js.map": "/my-react-app/static/js/main.a0d0ec89.js.map",
     "787.bc7d429a.chunk.js.map": "/my-react-app/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b66dda2b.css",
-    "static/js/main.7834b329.js"
+    "static/js/main.a0d0ec89.js"
   ]
 }

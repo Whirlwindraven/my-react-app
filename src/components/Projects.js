@@ -18,6 +18,7 @@ import preOnbarding from "../assets/img/pre_onboarding.png";
 import temp from "../assets/img/Temp_onboarding .png";
 import excel from "../assets/img/Excel dashboard.png";
 import nasa from "../assets/img/Nasa .png";
+import review from "../assets/img/process_review.png";
 import researchPres from "../assets/img/Undegrad_science.png"
 import c90 from "../assets/img/psy-c90.png";
 import leaveFlow from "../assets/img/leave_workflow.png"
@@ -150,10 +151,15 @@ export const Projects = () => {
          imgUrl: retirementLeave,
          },
          {
-          title: "Temp=Onboarding process flow",
+          title: "Temp-Onboarding process flow",
           description: "This was a Temp-onbording prcoess flow proposal visualization done for a government client using Lucidchart",
           imgUrl: temp,
           },
+          {
+            title: "SnowGlobe Process Review",
+            description: "A hypothetical process review of a global entity headquartered in Spain, on the onboarding process. What to consider and what could be optimized",
+            imgUrl: review,
+            },
   ];
 
   const startUp = [

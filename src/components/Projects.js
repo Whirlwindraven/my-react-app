@@ -8,6 +8,17 @@ import joker from "../assets/img/Joker Small.png";
 import mvc from "../assets/img/MVC screenshot Small.png";
 import researchStudy from "../assets/img/research study Small.png";
 import musicPlayer from "../assets/img/music-player.png";
+import bi from "../assets/img/bi.png";
+import cert10 from "../assets/img/cert10.png";
+import cert9 from "../assets/img/cert9.png";
+import cert8 from "../assets/img/cert8.png";
+import cert7 from "../assets/img/cert7.png";
+import cert6 from "../assets/img/cert6.png";
+import cert5 from "../assets/img/cert5.png";
+import cert2 from "../assets/img/cert 2.png";
+import cert from "../assets/img/cert.png";
+import cert4 from "../assets/img/cert4.png";
+import bachelors from "../assets/img/bachelors.png";
 import countdown from "../assets/img/countdown.png";
 import tableau from "../assets/img/Tableau1.png";
 import bookkeeper from "../assets/img/bookkeeper.png";
@@ -19,8 +30,11 @@ import temp from "../assets/img/Temp_onboarding .png";
 import excel from "../assets/img/Excel dashboard.png";
 import nasa from "../assets/img/Nasa .png";
 import review from "../assets/img/process_review.png";
-import researchPres from "../assets/img/Undegrad_science.png"
+import cert3 from "../assets/img/cert3.png";
+import researchPres from "../assets/img/Undegrad_science.png";
 import c90 from "../assets/img/psy-c90.png";
+import columbia from "../assets/img/columbia_cert.png";
+import microMasters from "../assets/img/microMasters.png";
 import leaveFlow from "../assets/img/leave_workflow.png"
 import proposal from "../assets/img/research proposal.png";
 import team from "../assets/img/Diverse team  Small.png";
@@ -90,6 +104,26 @@ export const Projects = () => {
             description: "Undergraduate qualitative research paper done under the supervision of Dr.Gerald Cupchik",
             imgUrl: sportStudy,
             },
+            {
+              title: "GoGo",
+              description: "GoGo is a digital platform that bridges the gap between Businesses, Users, and Experiences.",
+              imgUrl: gogo,
+            },
+            {
+              title: "Hypothesis testing and research",
+              description: "Worked with the University of Toronto professors to validate my idea through a qualitaive research study",
+              imgUrl: researchStudy,
+            },
+            {
+                title: "My startup team",
+                description: "A team of diverse and unique indiviuals ",
+                imgUrl: team,
+              },
+              {
+                title: "Collision pitch",
+                description: "I was invited to exhibit my startup at the collision conference where I pitched to VCs and investors",
+                imgUrl: collision,
+              },
      
    
   ];
@@ -164,26 +198,83 @@ export const Projects = () => {
 
   const startUp = [
     {
-        title: "GoGo",
-        description: "GoGo is a digital platform that bridges the gap between Businesses, Users, and Experiences.",
-        imgUrl: gogo,
+        title: "Executive Education, Programing",
+        description: "Columbia University, 6 months bootcamp in full stack web development using HTML, Javascript, Node.js, CSS, express.js, handlebars, GraphQL, SQL, MySQL, Insomnia, Postman, React.js, Jquery, APIs, etc...",
+        imgUrl: columbia,
       },
       {
-        title: "Hypothesis testing and research",
-        description: "Worked with the University of Toronto professors to validate my idea through a qualitaive research study",
-        imgUrl: researchStudy,
+        title: "Bachelors of Science, Life Sciences",
+        description: "Honors Bachelors of Scince in life sciences, majoring in both Human Biology & Psychology while also partaking in the new venture business program",
+        imgUrl: bachelors,
       },
       {
-          title: "My startup team",
-          description: "A team of diverse and unique indiviuals ",
-          imgUrl: team,
-        },
-        {
-          title: "Collision pitch",
-          description: "I was invited to exhibit my startup at the collision conference where I pitched to VCs and investors",
-          imgUrl: collision,
-        },
+        title: "I/O Micro-Masters",
+        description: "A micro-masters consisting of 5 graduate level courses in Industrial Organizational Psychology",
+        imgUrl: microMasters,
+      },
+      {
+        title: "Business Intelligence",
+        description: "A professional certification in business intelligence from Google consisting of 3 advanced courses",
+        imgUrl: bi,
+      },
+      {
+        title: "Python Data Structures & Algorithms + LEETCODE Exercises",
+        description: "Udemy Certification in data structutres, understanding binary search trees, graphs, stacks & queues, decision tress, recursion, etc...",
+        imgUrl: cert,
+      },
+      {
+        title: "Complete Data Wrangling & Data Visualisation With Python",
+        description: "Udemy Certification in data manipulation using python",
+        imgUrl: cert2,
+      },
+      {
+        title: "Financial Analysis Mastery for Banking and Finance",
+        description: "Udemy Certification in financial analysis where I worked on evaluting balance sheets, income statements, and cashflow statements on the SEC",
+        imgUrl: cert3,
+      },
+    
+      {
+        title: "MBA ASAP Corporate Finance Fundamentals for Career Success",
+        description: "Udemy Certification in the fundementals of corporate finance & accounting",
+        imgUrl: cert4,
+      },
+      {
+        title: "Statistics & Mathematics for Data Science & Data Analytics ",
+        description: "Udemy Certification in the fundemental statistics required for data analysis",
+        imgUrl: cert5,
+      },
+      {
+        title: "Python for Data Science and Machine Learning Bootcamp ",
+        description: "Udemy Certification in the in data analysis using python, numpy, scikitlearn, pandas, matplotlib, seaborn, cuflinks, machine learning, & data visualization",
+        imgUrl: cert6,
+      },
+      {
+        title: "The Psychology of Criminal Justice",
+        description: "Online certification offered by the University of Queensland",
+        imgUrl: cert7,
+      },
+      {
+        title: "Recruiting, Hiring, and Onboarding Employees",
+        description: "Online certification offered by the Univerisyt of Minnesota",
+        imgUrl: cert8,
+      },
+      {
+        title: "Neuroscience and Neuroimaging Specialization",
+        description: "Online certification offered by the John Hopkins University, constituting 4 courses",
+        imgUrl: cert9,
+      },
+      {
+        title: "Managing Employee Performance",
+        description: "Online certification offered by the Univerisyt of Minnesota",
+        imgUrl: cert10,
+      },
+
+
+
+
   ]
+
+
 
   return (
     <section className="project" id="projects">
@@ -204,7 +295,7 @@ export const Projects = () => {
                       <Nav.Link eventKey="second">Projects Tab 2</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="third">My Startup</Nav.Link>
+                      <Nav.Link eventKey="third">Education & Certs</Nav.Link>
                     </Nav.Item>
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>

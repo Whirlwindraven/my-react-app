@@ -8,7 +8,16 @@ import joker from "../assets/img/Joker Small.png";
 import mvc from "../assets/img/MVC screenshot Small.png";
 import researchStudy from "../assets/img/research study Small.png";
 import musicPlayer from "../assets/img/music-player.png";
-import bi from "../assets/img/bi.png";
+import cert20 from "../assets/img/cert20.png";
+import cert19 from "../assets/img/cert19.png";
+import cert18 from "../assets/img/cert18.png";
+import cert17 from "../assets/img/cert17.png";
+import cert16 from "../assets/img/cert16.png";
+import cert15 from "../assets/img/cert15.png";
+import cert14 from "../assets/img/cert14.png";
+import cert13 from "../assets/img/cert13.png";
+import cert12 from "../assets/img/cert12.png";
+import cert11 from "../assets/img/cert11.png";
 import cert10 from "../assets/img/cert10.png";
 import cert9 from "../assets/img/cert9.png";
 import cert8 from "../assets/img/cert8.png";
@@ -213,11 +222,6 @@ export const Projects = () => {
         imgUrl: microMasters,
       },
       {
-        title: "Business Intelligence",
-        description: "A professional certification in business intelligence from Google consisting of 3 advanced courses",
-        imgUrl: bi,
-      },
-      {
         title: "Python Data Structures & Algorithms + LEETCODE Exercises",
         description: "Udemy Certification in data structutres, understanding binary search trees, graphs, stacks & queues, decision tress, recursion, etc...",
         imgUrl: cert,
@@ -268,8 +272,56 @@ export const Projects = () => {
         description: "Online certification offered by the Univerisyt of Minnesota",
         imgUrl: cert10,
       },
-
-
+      {
+        title: "Preparing to Manage Human Resources",
+        description: "Online certification offered by the Univerisyt of Minnesota",
+        imgUrl: cert11,
+      },
+      {
+        title: "Performance and Motivation at Work",
+        description: "Online certification offered by the Univerisyt of Canterbury",
+        imgUrl: cert12,
+      },
+      {
+        title: "Supporting Employee Wellbeing",
+        description: "Online certification offered by the Univerisyt of Canterbury",
+        imgUrl: cert13,
+      },
+      {
+        title: "Recruiting and Selecting the Right Person",
+        description: "Online certification offered by the Univerisyt of Canterbury",
+        imgUrl: cert14,
+      },
+      {
+        title: "Organizational Change & Innovation",
+        description: "Online certification offered by the Univerisyt of Canterbury",
+        imgUrl: cert15,
+      },
+      {
+        title: "Leadership for Contemporary Organizations",
+        description: "Online certification offered by the Univerisyt of Canterbury",
+        imgUrl: cert16,
+      },
+      {
+        title: "Google Business Intelligence",
+        description: " non-credit Professional Certificate from google consisting of 3 courses, Foundations of Business Intelligence, The Path to Insights: Data Models and Pipelines Decisions, Decisions: Dashboards and Reports",
+        imgUrl: cert17,
+      },
+      {
+        title: "Complete SQL and Databases Bootcamp ",
+        description: "Udemy Certificate in SQL, Postgres, & MySQL",
+        imgUrl: cert18,
+      },
+      {
+        title: "JavaScript,the Advanced Concepts",
+        description: "Udemy Certificate in Javascript",
+        imgUrl: cert19,
+      },
+      {
+        title: " Complete NodeJS Developer (GraphQL, MongoDB, + more)",
+        description: "Udemy Certificate in full stack web development, mostly backend",
+        imgUrl: cert20,
+      },
 
 
   ]
